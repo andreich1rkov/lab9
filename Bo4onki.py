@@ -7,14 +7,14 @@ logging.basicConfig(level=logging.INFO, filename="Bo4onki_log.log",filemode="w")
 # Ввод и проверка на валидность числа N.
 while True:
     try:
-        N = int(input("Введите целое положительное число N: "))
+        N = int(input("Введите число бочек N: "))
         logging.info(f" Number of Bo4ki == {N}")
         if N < 1:
             logging.error(" Error. Invalid 'N'", exc_info=True)
             raise ValueError
         break
     except ValueError as err:
-         print("Ошибка")
+         print("Ошибка, введите целое положительное число.")
          logging.error(" Error. Invalid 'N'", exc_info=True)
 
 # Создание 2х списков: "Мешка" и "Стола". Заполнение Мешка бочонками.
@@ -22,7 +22,7 @@ Bag = []
 Table = []
 for i in range(1, N+1):
     Bag.append(i)
-print(Bag)
+print(f"В Мешке: {Bag}")
 logging.info(f" In the Bag: {Bag}")
 
 
