@@ -1,0 +1,55 @@
+INFO:root: Number of Bo4ki == 13
+INFO:root: In the Bag: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #6 removed from Bag
+INFO:root: [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13] left in Bag
+INFO:root: [6] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #8 removed from Bag
+INFO:root: [1, 2, 3, 4, 5, 7, 9, 10, 11, 12, 13] left in Bag
+INFO:root: [6, 8] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #12 removed from Bag
+INFO:root: [1, 2, 3, 4, 5, 7, 9, 10, 11, 13] left in Bag
+INFO:root: [6, 8, 12] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #4 removed from Bag
+INFO:root: [1, 2, 3, 5, 7, 9, 10, 11, 13] left in Bag
+INFO:root: [6, 8, 12, 4] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #7 removed from Bag
+INFO:root: [1, 2, 3, 5, 9, 10, 11, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #11 removed from Bag
+INFO:root: [1, 2, 3, 5, 9, 10, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #5 removed from Bag
+INFO:root: [1, 2, 3, 9, 10, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #3 removed from Bag
+INFO:root: [1, 2, 9, 10, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #1 removed from Bag
+INFO:root: [2, 9, 10, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3, 1] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #10 removed from Bag
+INFO:root: [2, 9, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3, 1, 10] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #2 removed from Bag
+INFO:root: [9, 13] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3, 1, 10, 2] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #13 removed from Bag
+INFO:root: [9] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3, 1, 10, 2, 13] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #9 removed from Bag
+INFO:root: [] left in Bag
+INFO:root: [6, 8, 12, 4, 7, 11, 5, 3, 1, 10, 2, 13, 9] on Table
+INFO:root: Bag is empty :(
