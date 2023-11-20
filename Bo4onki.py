@@ -1,4 +1,8 @@
 import random
+import logging
+
+# Добавление Лог файла
+logging.basicConfig(level=logging.INFO, filename="py_log.log",filemode="w")
 
 # Ввод и проверка на валидность числа N.
 while True:
