@@ -11,10 +11,10 @@
 **Скриншоты тестов:**
 
 Тест 1:
-![screenshot1](https://github.com/andreich1rkov/lab6/blob/main/test1_terminal.JPG)
+![screenshot1](https://github.com/andreich1rkov/lab9/blob/main/test1_terminal.JPG)
 
 Тест 2:
-![screenshot2](https://github.com/andreich1rkov/lab6/blob/main/test2_terminal.JPG)
+![screenshot2](https://github.com/andreich1rkov/lab9/blob/main/test2_terminal.JPG)
 
 Тест 3:
-![screenshot3](https://github.com/andreich1rkov/lab6/blob/main/test3_terminal.JPG)
+![screenshot3](https://github.com/andreich1rkov/lab9/blob/main/test3_terminal.JPG)
