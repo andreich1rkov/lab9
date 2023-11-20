@@ -1,0 +1,31 @@
+INFO:root: Number of Bo4ki == 7
+INFO:root: In the Bag: [1, 2, 3, 4, 5, 6, 7]
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #2 removed from Bag
+INFO:root: [1, 3, 4, 5, 6, 7] left in Bag
+INFO:root: [2] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #4 removed from Bag
+INFO:root: [1, 3, 5, 6, 7] left in Bag
+INFO:root: [2, 4] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #7 removed from Bag
+INFO:root: [1, 3, 5, 6] left in Bag
+INFO:root: [2, 4, 7] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #5 removed from Bag
+INFO:root: [1, 3, 6] left in Bag
+INFO:root: [2, 4, 7, 5] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #3 removed from Bag
+INFO:root: [1, 6] left in Bag
+INFO:root: [2, 4, 7, 5, 3] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #1 removed from Bag
+INFO:root: [6] left in Bag
+INFO:root: [2, 4, 7, 5, 3, 1] on Table
+INFO:root: Button pressed: 1
+INFO:root: Bo4ka #6 removed from Bag
+INFO:root: [] left in Bag
+INFO:root: [2, 4, 7, 5, 3, 1, 6] on Table
+INFO:root: Bag is empty :(
