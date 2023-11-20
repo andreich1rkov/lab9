@@ -17,4 +17,4 @@
 ![screenshot2](https://github.com/andreich1rkov/lab9/blob/main/test2_terminal.JPG)
 
 Тест 3:
-![screenshot3](https://github.com/andreich1rkov/lab9/blob/main/test3_terminal.JPG)
+![screenshot3](https://github.com/andreich1rkov/lab9/blob/main/test3_terminal.jpg)
